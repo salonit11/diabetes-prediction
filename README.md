@@ -1,7 +1,3 @@
-Here’s the **README** for your **Diabetes Prediction** project.  
-
----
-
 # Diabetes Prediction
 
 ## Project Overview
