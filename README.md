@@ -41,15 +41,10 @@ We trained and evaluated the following classifiers:
   - **Accuracy**
   - **Classification Report**
 
-## Installation & Usage
+## Installation
 ### Requirements
 ```bash
 pip install numpy pandas scikit-learn
-```
-
-### Run the Project
-```bash
-python diabetes_prediction.py
 ```
 
 ## Results
